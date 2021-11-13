@@ -1,0 +1,10 @@
+C:\Users\nazmi\Desktop\C#\25 PROJE\DovizOfisiMiniProjesi\DovizOfisiMiniProject\DovizOfisiMiniProject\bin\Debug\DovizOfisiMiniProject.exe.config
+C:\Users\nazmi\Desktop\C#\25 PROJE\DovizOfisiMiniProjesi\DovizOfisiMiniProject\DovizOfisiMiniProject\bin\Debug\DovizOfisiMiniProject.exe
+C:\Users\nazmi\Desktop\C#\25 PROJE\DovizOfisiMiniProjesi\DovizOfisiMiniProject\DovizOfisiMiniProject\bin\Debug\DovizOfisiMiniProject.pdb
+C:\Users\nazmi\Desktop\C#\25 PROJE\DovizOfisiMiniProjesi\DovizOfisiMiniProject\DovizOfisiMiniProject\obj\Debug\DovizOfisiMiniProject.csproj.AssemblyReference.cache
+C:\Users\nazmi\Desktop\C#\25 PROJE\DovizOfisiMiniProjesi\DovizOfisiMiniProject\DovizOfisiMiniProject\obj\Debug\DovizOfisiMiniProject.Form1.resources
+C:\Users\nazmi\Desktop\C#\25 PROJE\DovizOfisiMiniProjesi\DovizOfisiMiniProject\DovizOfisiMiniProject\obj\Debug\DovizOfisiMiniProject.Properties.Resources.resources
+C:\Users\nazmi\Desktop\C#\25 PROJE\DovizOfisiMiniProjesi\DovizOfisiMiniProject\DovizOfisiMiniProject\obj\Debug\DovizOfisiMiniProject.csproj.GenerateResource.cache
+C:\Users\nazmi\Desktop\C#\25 PROJE\DovizOfisiMiniProjesi\DovizOfisiMiniProject\DovizOfisiMiniProject\obj\Debug\DovizOfisiMiniProject.csproj.CoreCompileInputs.cache
+C:\Users\nazmi\Desktop\C#\25 PROJE\DovizOfisiMiniProjesi\DovizOfisiMiniProject\DovizOfisiMiniProject\obj\Debug\DovizOfisiMiniProject.exe
+C:\Users\nazmi\Desktop\C#\25 PROJE\DovizOfisiMiniProjesi\DovizOfisiMiniProject\DovizOfisiMiniProject\obj\Debug\DovizOfisiMiniProject.pdb
